@@ -1,21 +1,19 @@
-# 👋 Hi there, I'm [Royner Díaz Delgado]
+<h1 align="center">👋 Hi there, I'm Royner Díaz Delgado</h1>
 
-🎯 I'm a software developer focused on building modern, scalable, and efficient web and mobile applications.
+<p align="center">
+  <b>Software Developer | .NET MAUI • ASP.NET • React</b><br/>
+  <i>Creating smart, scalable and modern solutions for web and mobile</i>
+</p>
 
-💻 Technologies I work with:
-- Languages: C#, JavaScript, Python
-- Frameworks: .NET MAUI, ASP.NET Core, React, Laravel  
-- Databases: SQL Server, SQLite, MySQL  
-- Tools: Git, GitHub, Visual Studio, VS Code
+---
 
-🔧 I'm passionate about writing clean code, applying best practices, and using modern software architectures like MVVM and MVC.
+### 🧠 About Me
 
-🚀 Currently I'm:
-- Developing REST APIs for data services in Peru  
-- Building modern mobile apps using .NET MAUI and MVVM  
-- Learning more about security, cloud computing, and automation
+```text
+🧑‍💻 I'm a passionate developer from Peru 🇵🇪
+🛠️ I love building real-world apps that solve real problems
+🚀 I enjoy learning new technologies and applying best practices
 
-📫 Feel free to explore my projects or reach out here on GitHub!
 
 
 <!---
