@@ -1,19 +1,20 @@
-<h1 align="center">👋 Hi there, I'm Royner Díaz Delgado</h1>
-
+<!-- Banner animado -->
 <p align="center">
-  <b>Software Developer | .NET MAUI • ASP.NET • React</b><br/>
-  <i>Creating smart, scalable and modern solutions for web and mobile</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00FFC6&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Royner+D%C3%ADaz+Delgado;Full+Stack+Developer+from+Peru;Lover+of+.NET%2C+React+and+APIs" alt="Typing SVG" />
 </p>
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/💻 Full Stack Developer-00FFDD?style=for-the-badge&logo=github&logoColor=white"/>
+</h1>
 
 ---
 
-### 🧠 About Me
+### 🔥 Sobre mí
 
 ```text
-🧑‍💻 I'm a passionate developer from Peru 🇵🇪
-🛠️ I love building real-world apps that solve real problems
-🚀 I enjoy learning new technologies and applying best practices
-
+🧑‍💻 Soy Royner Díaz, apasionado por el desarrollo de software moderno
+⚡ Experto en aplicaciones móviles con .NET MAUI y APIs RESTful
+🚀 Siempre explorando nuevas tecnologías para automatizar procesos
 
 
 <!---
